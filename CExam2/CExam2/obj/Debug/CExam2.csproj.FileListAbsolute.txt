@@ -1,0 +1,10 @@
+C:\Users\1696347\source\repos\CExam2\CExam2\bin\Debug\CExam2.exe.config
+C:\Users\1696347\source\repos\CExam2\CExam2\bin\Debug\CExam2.exe
+C:\Users\1696347\source\repos\CExam2\CExam2\bin\Debug\CExam2.pdb
+C:\Users\1696347\source\repos\CExam2\CExam2\obj\Debug\CExam2.csprojAssemblyReference.cache
+C:\Users\1696347\source\repos\CExam2\CExam2\obj\Debug\CExam2.frmRegister.resources
+C:\Users\1696347\source\repos\CExam2\CExam2\obj\Debug\CExam2.Properties.Resources.resources
+C:\Users\1696347\source\repos\CExam2\CExam2\obj\Debug\CExam2.csproj.GenerateResource.cache
+C:\Users\1696347\source\repos\CExam2\CExam2\obj\Debug\CExam2.csproj.CoreCompileInputs.cache
+C:\Users\1696347\source\repos\CExam2\CExam2\obj\Debug\CExam2.exe
+C:\Users\1696347\source\repos\CExam2\CExam2\obj\Debug\CExam2.pdb
