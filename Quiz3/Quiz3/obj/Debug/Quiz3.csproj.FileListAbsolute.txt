@@ -1,0 +1,10 @@
+C:\Users\1696347\source\repos\Quiz3\Quiz3\bin\Debug\Quiz3.exe.config
+C:\Users\1696347\source\repos\Quiz3\Quiz3\bin\Debug\Quiz3.exe
+C:\Users\1696347\source\repos\Quiz3\Quiz3\bin\Debug\Quiz3.pdb
+C:\Users\1696347\source\repos\Quiz3\Quiz3\obj\Debug\Quiz3.csprojAssemblyReference.cache
+C:\Users\1696347\source\repos\Quiz3\Quiz3\obj\Debug\Quiz3.frmCarwash.resources
+C:\Users\1696347\source\repos\Quiz3\Quiz3\obj\Debug\Quiz3.Properties.Resources.resources
+C:\Users\1696347\source\repos\Quiz3\Quiz3\obj\Debug\Quiz3.csproj.GenerateResource.cache
+C:\Users\1696347\source\repos\Quiz3\Quiz3\obj\Debug\Quiz3.csproj.CoreCompileInputs.cache
+C:\Users\1696347\source\repos\Quiz3\Quiz3\obj\Debug\Quiz3.exe
+C:\Users\1696347\source\repos\Quiz3\Quiz3\obj\Debug\Quiz3.pdb
