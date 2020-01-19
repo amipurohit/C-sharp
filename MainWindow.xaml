@@ -1,0 +1,58 @@
+﻿<Window x:Class="Test3_Bank.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Test3_Bank"
+        mc:Ignorable="d" 
+        Title=" Simple Banking" Height="402" Width="447" FontSize="18"  Foreground="#FF030A3A"  >
+    <StackPanel>
+        <!--Welcome Message-->
+        <TextBlock Text="Welcome to simple banking application" 
+                       TextAlignment="Center" FontSize="16" FontWeight="DemiBold" 
+                       FontFamily="Algerian" x:Name="txtbwelcome"
+                       Padding="5" FontStyle="Italic" Foreground="#FF1E2991" Background="Aquamarine" TextWrapping="Wrap"/>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <!--name-->
+            <TextBlock Text="Name"  x:Name="txtbName" Margin="10,5" Padding="5" Grid.Column="0" Grid.Row="0"/>
+            <TextBox x:Name="txtName"  Margin="10,5" Padding="5" Grid.Column="1" Grid.Row="0"/>
+
+            <!--ID-->
+            <TextBlock Text="ID"  x:Name="txtbID" Margin="10,5" Padding="5" Grid.Column="0" Grid.Row="1"/>
+            <TextBox x:Name="txtID" Margin="10,5" Padding="5" Grid.Column="1" Grid.Row="1"/>
+
+            <!--Balance-->
+            <TextBlock Text="Balance" x:Name="txtbBalance" Margin="10,5" Padding="5" Grid.Column="0" Grid.Row="2"/>
+            <TextBox x:Name="txtBalance" Margin="10,5" Padding="5" Grid.Column="1" Grid.Row="2"/>
+
+            <!--Amount-->
+            <TextBlock Text="Amount" x:Name="txtbAmount" Margin="10" Padding="5" Grid.Column="0" Grid.Row="3"/>
+            <TextBox x:Name="txtAmount" Margin="10" Padding="5" Grid.Column="1" Grid.Row="3"/>
+        </Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="25*"/>
+                <ColumnDefinition Width="24*"/>
+                <ColumnDefinition Width="49*"/>
+            </Grid.ColumnDefinitions>
+            <!--Deposite-->
+            <Button x:Name="btnDeposite" Content="Deposite" Margin="10" Padding="5,10" Grid.Column="0" Click="BtnDeposite_Click" Grid.ColumnSpan="2" Background="Aquamarine" />
+            <!--Withdraw-->
+            <Button x:Name="btnWithdraw" Content="Widthdraw" Margin="10" Padding="5, 10" Grid.Column="2" Click="BtnWithdraw_Click" Background="Aquamarine" />
+        </Grid>
+        <Button x:Name="btnLogin" Content="Login"  Margin="10" Padding="5,10"  Click="BtnLogin_Click" Background="Aquamarine"/>
+
+    </StackPanel>
+</Window>

@@ -1,0 +1,100 @@
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\bin\Debug\Test3_Bank.exe.config
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\bin\Debug\Test3_Bank.exe
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\bin\Debug\Test3_Bank.pdb
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\bin\Debug\EntityFramework.dll
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\bin\Debug\EntityFramework.xml
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\bin\Debug\NuGet.Frameworks.xml
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\Test3_Bank.csprojAssemblyReference.cache
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\AddUser.g.cs
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\AdminPanel.g.cs
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\LoginWindow.g.cs
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\MainWindow.g.cs
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\UpdateUser.g.cs
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\App.g.cs
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\Test3_Bank_MarkupCompile.cache
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\Test3_Bank_MarkupCompile.lref
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\AddUser.baml
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\AdminPanel.baml
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\LoginWindow.baml
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\MainWindow.baml
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\UpdateUser.baml
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\Test3_Bank.g.resources
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\Test3_Bank.Migrations.testFirst.resources
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\Test3_Bank.Migrations.testSeedingData.resources
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\Test3_Bank.Migrations.testSeedingData1.resources
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\Test3_Bank.Migrations.testSeedingData2.resources
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\Test3_Bank.Properties.Resources.resources
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\Test3_Bank.csproj.GenerateResource.cache
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\Test3_Bank.csproj.CoreCompileInputs.cache
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\Test3_Bank.csproj.CopyComplete
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\Test3_Bank.exe
+C:\Users\Ami Purohit\source\repos\Test3_Bank\Test3_Bank\obj\Debug\Test3_Bank.pdb
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\bin\Debug\Test3_Bank.exe.config
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\bin\Debug\Test3_Bank.exe
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\bin\Debug\Test3_Bank.pdb
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\bin\Debug\EntityFramework.dll
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\bin\Debug\EntityFramework.xml
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\bin\Debug\NuGet.Frameworks.xml
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.csprojAssemblyReference.cache
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\AddUser.g.cs
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\AdminPanel.g.cs
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\LoginWindow.g.cs
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\MainWindow.g.cs
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\UpdateUser.g.cs
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\App.g.cs
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank_MarkupCompile.cache
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank_MarkupCompile.lref
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\AddUser.baml
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\AdminPanel.baml
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\LoginWindow.baml
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\MainWindow.baml
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\UpdateUser.baml
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.g.resources
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.Properties.Resources.resources
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.csproj.GenerateResource.cache
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.csproj.CoreCompileInputs.cache
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.csproj.CopyComplete
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.exe
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.pdb
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.Migrations.Test1.resources
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.Migrations.addUserForignkeyToAccount1.resources
+C:\Users\Ami Purohit\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.Migrations.removeForiegnKey.resources
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\bin\Debug\Test3_Bank.exe.config
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\bin\Debug\Test3_Bank.exe
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\bin\Debug\Test3_Bank.pdb
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\bin\Debug\EntityFramework.dll
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\bin\Debug\NuGet.Frameworks.dll
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\bin\Debug\EntityFramework.xml
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\bin\Debug\NuGet.Frameworks.xml
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.csprojAssemblyReference.cache
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\AddUser.g.cs
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\AdminPanel.g.cs
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\LoginWindow.g.cs
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\MainWindow.g.cs
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\UpdateUser.g.cs
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\App.g.cs
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank_MarkupCompile.cache
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank_MarkupCompile.lref
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\AddUser.baml
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\AdminPanel.baml
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\LoginWindow.baml
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\MainWindow.baml
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\UpdateUser.baml
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.g.resources
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.Migrations.Test1.resources
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.Migrations.addUserForignkeyToAccount1.resources
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.Migrations.removeForiegnKey.resources
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.Properties.Resources.resources
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.csproj.GenerateResource.cache
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.csproj.CoreCompileInputs.cache
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.csproj.CopyComplete
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.exe
+C:\Users\1696347\Desktop\Test3_SimpleBanking\Test3_Bank\obj\Debug\Test3_Bank.pdb

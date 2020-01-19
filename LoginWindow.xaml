@@ -1,0 +1,19 @@
+﻿<Window x:Class="Test3_Bank.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Test3_Bank"
+        mc:Ignorable="d"
+        Title="Login Window" Height="250" Width="300">
+    <StackPanel Margin="20">
+        <TextBlock Text="ID"  Margin="10,0,10,5"/>
+        <TextBox x:Name="txtId" Margin="10,0,10,5"/>
+        
+        <TextBlock Text="Password"  Margin="10,0,10,5"/>
+        <PasswordBox x:Name="txtPassword" Margin="10,0,10,5" />
+        <Button x:Name="BtnLogin" Margin="10, 30" Padding="0,10" Content="Login" Click="BtnLogin_Click" Background="Aquamarine" />
+        
+
+    </StackPanel>
+</Window>
