@@ -1,0 +1,46 @@
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\bin\Debug\ConfrencesDB.mdf
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\bin\Debug\ConfrencesDB_log.ldf
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\bin\Debug\DBDemo.exe.config
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\bin\Debug\DBDemo.exe
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\bin\Debug\DBDemo.pdb
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo.csprojAssemblyReference.cache
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\obj\Debug\Conferences.g.cs
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\obj\Debug\MainWindow.g.cs
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\obj\Debug\VisitorsWindow.g.cs
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\obj\Debug\App.g.cs
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo_Content.g.cs
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo_MarkupCompile.cache
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo_MarkupCompile.lref
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\obj\Debug\Conferences.baml
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\obj\Debug\MainWindow.baml
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\obj\Debug\VisitorsWindow.baml
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo.g.resources
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo.Properties.Resources.resources
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo.csproj.GenerateResource.cache
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo.csproj.CoreCompileInputs.cache
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo.exe
+C:\Users\1696347\source\repos\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo.pdb
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\bin\Debug\ConfrencesDB.mdf
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\bin\Debug\ConfrencesDB_log.ldf
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\bin\Debug\DBDemo.exe.config
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\bin\Debug\DBDemo.exe
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\bin\Debug\DBDemo.pdb
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo.csprojAssemblyReference.cache
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\Conferences.g.cs
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\VisitorsWindow.g.cs
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\App.g.cs
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo_Content.g.cs
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo_MarkupCompile.cache
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo_MarkupCompile.lref
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\Conferences.baml
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\MainWindow.baml
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\VisitorsWindow.baml
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo.g.resources
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo.Properties.Resources.resources
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo.csproj.GenerateResource.cache
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo.exe
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\DBDemo.pdb
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\ConferenceInfo.g.cs
+C:\Users\Ami Purohit\Desktop\Exam2Test1\DBDemo\DBDemo\obj\Debug\ConferenceInfo.baml
